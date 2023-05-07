@@ -1,4 +1,4 @@
-package com.example.game_team_creator_admin_panel
+package com.flapps.game_team_creator_admin_panel
 
 import io.flutter.embedding.android.FlutterActivity
 

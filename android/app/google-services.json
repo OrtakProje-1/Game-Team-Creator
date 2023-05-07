@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "1097018432193",
+    "project_id": "game-team-creator",
+    "storage_bucket": "game-team-creator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097018432193:android:ff2b6fbabd204902565240",
+        "android_client_info": {
+          "package_name": "com.flapps.game_team_creator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097018432193-aomqn8a3nh6jd6t7adtumce19pfopvou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flapps.game_team_creator",
+            "certificate_hash": "754cdd6cd138f63a5630c09b429beb5c8c863b8a"
+          }
+        },
+        {
+          "client_id": "1097018432193-jcnshset68peh0vgget9lh38amvccp8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flapps.game_team_creator",
+            "certificate_hash": "ad210259713507e5a14959b8c0be85f62add7d86"
+          }
+        },
+        {
+          "client_id": "1097018432193-lcotl3f3hee6nsmvkit9rp6a9sl3aaom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZIfrPju-dWDrVJoG1EJ8Ii-w3RRk9BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097018432193-h87n3513goq9egl8oqgtcvk3o4ko0noc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097018432193:android:e9840e41625b343e565240",
+        "android_client_info": {
+          "package_name": "com.flapps.game_team_creator_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097018432193-7spihc69s46ln227o1l9peeqjook2maa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flapps.game_team_creator_admin_panel",
+            "certificate_hash": "754cdd6cd138f63a5630c09b429beb5c8c863b8a"
+          }
+        },
+        {
+          "client_id": "1097018432193-lcotl3f3hee6nsmvkit9rp6a9sl3aaom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZIfrPju-dWDrVJoG1EJ8Ii-w3RRk9BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097018432193-h87n3513goq9egl8oqgtcvk3o4ko0noc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

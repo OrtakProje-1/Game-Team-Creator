@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.game_team_creator_admin_panel">
+    package="com.flapps.game_team_creator_admin_panel">
    <application
-        android:label="game_team_creator_admin_panel"
+        android:label="Takım Oluşturucu Admin"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
